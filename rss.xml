@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+         <title>Културно-уметничко друштвo „Тамнава“ Уб"</title>
+         <description>Званична презентација Културно-уметничког друштва „Тамнава“ Уб"</description>
+         <link>http://www.link_ide_ovde.com</link>
+     <item>
+         <title>Naslovna</title>
+         <description>Opis ide ovde</description>
+         <link>http://www.link_ide_ovde.com</link>
+</item>
+<item>
+         <title>O nama</title>
+         <description>Novi opis ide ovde</description>
+         <link>http://www.novi_članak.com</link>
+</item>
+<item>
+         <title>Galerija</title>
+         <description>Novi opis ide ovde</description>
+         <link>http://www.novi_članak.com</link>
+</item>
+</channel>
+</rss>
